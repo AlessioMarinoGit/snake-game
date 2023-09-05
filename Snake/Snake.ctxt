@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Snake
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ controls()
+comment3.params=
+comment3.target=void\ controlUp()
+comment4.params=
+comment4.target=void\ controlRight()
+comment5.params=
+comment5.target=void\ controlDown()
+comment6.params=
+comment6.target=void\ controlLeft()
+comment7.params=
+comment7.target=void\ controlExil()
+numComments=8
